@@ -1,0 +1,14 @@
+#Mon Nov 18 14:06:22 CET 2019
+encoding/src/test/java=ISO-8859-1
+org.eclipse.jdt.core.compiler.compliance=1.8
+org.eclipse.jdt.core.compiler.release=disabled
+encoding/src/main/resources=ISO-8859-1
+org.eclipse.jdt.core.compiler.codegen.methodParameters=generate
+org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
+encoding/src/main/java=ISO-8859-1
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.8
+org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=ignore
+eclipse.preferences.version=1
+encoding/src/test/resources=ISO-8859-1
+org.eclipse.jdt.core.compiler.source=1.8
+org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
